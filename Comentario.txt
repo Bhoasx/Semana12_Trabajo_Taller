@@ -1,0 +1,4 @@
+1. No permite ingresar caracteres con espacios, pues si se le ingresa con espacion considera que estmos ingresando 2 productos en vez de uno.
+2. En editar no deja cambiar el nombre del producto.
+3. Al momento de enviar nos acordamos de ingresar do-while para evitar productos negativos.
+    3.1. El archivo no actualiza los numeros negativos.
