@@ -1,0 +1,7 @@
+[PRODUCTOS]
+Hp 14 3.00
+Laptop_HP 0 500.00
+Samsung 1 150.00
+[ORDENES]
+Laptop_HP 2 1
+Samsung 1 1
